@@ -1,4 +1,4 @@
-Here to explore some topics in computer vision, sensor fusion, automotive, and robotics; and to have some fun along the way.
+Here to explore some topics in sensors for automotive applications, computer vision, sensor fusion, and robotics; and to have some fun along the way.
 
 <!---
 vicrion/vicrion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
